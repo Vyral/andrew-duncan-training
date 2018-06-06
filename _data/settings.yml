@@ -1,33 +1,36 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Tampa Bay's Best Real Estate Training"
+description: -- CLIENT NAME --, top Real Estate Agents in -- MARKET --, share their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
-  - title: Join Our Team
-    url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /strategy-call/
+  - title: Our Team
+    url: http://www.theduncanduo.com/custompages_reports/About.htm
+  - title: Career Night
+    url: /career-night/
+  - title: Radio Show
+    url: https://soundcloud.com/theduncanduo/sets/tampa-real-estate
   - title: Free Newsletter
     url: /subscribe/
 
 
 client:
-  name:
+  name: The Duncan Duo
   title:
   license_number:
   about_markdown: |
+    If you are looking to start or jumpstart a real estate career, look no further than the Duncan Duo. They have been the #1 Realtors in Tampa Bay for several years running, are the #1 RE/MAX Agents in Florida, #6 in the World, and are the Official Real Estate Agents of The Tampa Bay Lightning. As one of the most respected Realtors in the country, The Duncan Duo have also garnered celebrity endorsements from Barbara Corcoran, Jack Harris, Sean Hannity, Glenn Beck, Ron Diaz and Dave McKay and you can hear their radio show every Sunday at 10am on 970WFLA. In addition, this year they ranked #561 on the Inc5000 list for America’s Fastest Growing Privately owned companies, their 2nd year on the list.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    They have a track record of doubling, tripling and quadrupling agent income from their prior Brokerages and have an amazing training and mentoring program for brand new agents to learn the business and get into production quickly. The Duo are regularly looking for great team members to join their team and you can inquire in the message box at the top or by <a href="http://tampa.craigslist.org/search/jjj?query=duncan+duo" target="_blank">clicking here to apply directly via our recent hiring ads</a>.
+  market: Tampa Bay
+  brand: The Duncan Duo & Associates
+  brokerage: RE/MAX Dynamic
+  address: 6320 S Dale Mabry Hwy<br>Tampa, Florida 33611
+  phone: 813-359-8990
   phone_type:
-  phone2:
+  address2: 7430 N Tamiami Trail<br>Sarasota, FL 34243
+  phone2: 941-888-4730
   phone2_type:
-  email:
+  email: sellers@theduncanduo.com
   url:
 
 lender:
@@ -44,17 +47,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/remaxdynamictampa/
+  linkedin_url: https://www.linkedin.com/in/duncanduo?trk=hp-identity-name
+  gplus_url: http://plus.google.com/+Theduncanduoremax/about
+  youtube_url: http://www.youtube.com/user/TheDuncanDuo
+  twitter_url: http://www.twitter.com/TheDuncanDuo
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/tampa-bay-real-estate-careers/id1177061984?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
