@@ -12,6 +12,14 @@ custom_links:
   - title: Videos
     url: /videos/
 
+sidebar_CTA:
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Come To Our Career Night
+    CTA_text: The second Tuesday of every month, we'll be hosting a career night at our office starting at 6pm. Please fill out this form to register!
+    CTA_link_text: Career Night
+    CTA_url: /careers/
+
+
 client:
   name: The Duncan Duo
   title:
