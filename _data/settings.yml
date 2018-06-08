@@ -11,7 +11,8 @@ custom_links:
     url: https://soundcloud.com/theduncanduo/sets/tampa-real-estate
   - title: Free Newsletter
     url: /subscribe/
-
+  - title: Videos
+    url: /videos/
 
 client:
   name: The Duncan Duo
@@ -30,7 +31,7 @@ client:
   address2: 7430 N Tamiami Trail<br>Sarasota, FL 34243
   phone2: 941-888-4730
   phone2_type:
-  email: sellers@theduncanduo.com
+  email: careers@theduncanduo.com
   url: https://www.TheDuncanDuo.com
 
 lender:
