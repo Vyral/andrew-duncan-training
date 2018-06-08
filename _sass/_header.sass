@@ -1,19 +1,24 @@
 .hero-img
 	background-position: center
 	background-size: cover
-	height: 400px
 #hero
 	background-position: center
 	background-size: cover
 	background-attachment: fixed
 	background-repeat: no-repeat
 	text-align: center
-	padding-top: $nav-height + 2.5rem
+	padding-top: $nav-height
 
 .site-logo
-	width: 90%
-	max-width: $logo-width
+	width: 100%
+	max-width: 200px
 	@include filter(drop-shadow($header-shadow))
+
+.logos
+	// width: 75%
+	padding: 5rem
+	display: block
+	margin: 0 auto
 
 .site-title
 	color: $brand
