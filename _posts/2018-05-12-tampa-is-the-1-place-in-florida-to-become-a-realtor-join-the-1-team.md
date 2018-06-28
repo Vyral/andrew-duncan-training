@@ -13,7 +13,7 @@ date: 2018-05-12 21:17:00
 author: The Duncan Duo
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/_5Mw9CKvWPw/default.jpg'
+thumbnail: /uploads/duncanprint-2.jpg
 blogger_id: 'tag:blogger.com,1999:blog-3927171534926070217.post-5947680458496864081'
 blogger_orig_url: 'http://www.jointheduo.com/2018/05/tampa-is-1-place-in-florida-to-become.html'
 ---
