@@ -1533,17 +1533,20 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 15rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
+    max-width: 10rem;
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 5rem; }
+
+  .logos {
+    padding: 1rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
+    max-width: 10rem;
     margin-top: 2rem; }
 
   .site-title {

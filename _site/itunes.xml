@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Tampa Bay Real Estate Podcast with The Duncan Duo</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://jointheduo.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://jointheduo.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Duncan Duo & Associates - your professional Tampa Bay Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>The Duncan Duo</managingEditor>
-    <lastBuildDate>2018-06-28 14:36:07 -0500</lastBuildDate>
+    <lastBuildDate>2018-07-03 16:43:37 -0500</lastBuildDate>
     <media:copyright>The Duncan Duo</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://jointheduo.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa Bay, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>The Duncan Duo</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://jointheduo.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa Bay, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Tampa Bay Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Duncan Duo & Associates - your professional Tampa Bay Real Estate Agents.</itunes:summary>
@@ -26,31 +26,28 @@
     
       <item>
         <title>Tampa Bay flooded with brand new agents & they should be careful about where they start</title>
-        <link>localhost:4000/tampa-bay-flooded-with-brand-new-agents.html</link>
+        <link>http://jointheduo.com/tampa-bay-flooded-with-brand-new-agents-they-should-be-careful-about-where-they-start.html</link>
         
         <author>The Duncan Duo</author>
         <pubDate>2018-06-04 18:27:00 -0500</pubDate>
         <guid></guid>
         <description>
-
 Andrew Duncan, the #1 RE/MAX agent in Florida talks with Duncan Duo Team President Robert Johnson, Listing Partner Darcy Davis and Arry from Arrys Roofing, about why new agents should be careful about the firm they start with. They talk about the high failure rate of first year real estate agents, the low # of average sales and income that the public doesn’t know about, and the fact that most agents fail because they join the wrong team or brokerage.
 
-The Duncan Duo team offers opportunities to agents or even people who are looking to join the real estate business. Join their upcoming Career Night on June 12th, Tuesday at 6pm to learn more about the team and how to be successful in the business. Register on our website at www.JoinTheDuo.com or send an email to careers@TheDuncanDuo.com.
+The Duncan Duo team offers opportunities to agents or even people who are looking to join the real estate business. Join their upcoming Career Night on June 12th, Tuesday at 6pm to learn more about the team and how to be successful in the business. Register on our website at www.JoinTheDuo.com or send an email to &#099;&#097;&#114;&#101;&#101;&#114;&#115;&#064;&#084;&#104;&#101;&#068;&#117;&#110;&#099;&#097;&#110;&#068;&#117;&#111;&#046;&#099;&#111;&#109;.
 
-If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at careers@TheDuncanDuo.com or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
+If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at &#099;&#097;&#114;&#101;&#101;&#114;&#115;&#064;&#084;&#104;&#101;&#068;&#117;&#110;&#099;&#097;&#110;&#068;&#117;&#111;&#046;&#099;&#111;&#109; or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Andrew Duncan, the #1 RE/MAX agent in Florida talks with Duncan Duo Team President Robert Johnson, Listing Partner Darcy Davis and Arry from Arrys Roofing, about why new agents should be careful about the firm they start with. They talk about the high failure rate of first year real estate agents, the low # of average sales and income that the public doesn’t know about, and the fact that most agents fail because they join the wrong team or brokerage.
 
 </itunes:subtitle>
         <itunes:author>The Duncan Duo</itunes:author>
         <itunes:summary>
-
 Andrew Duncan, the #1 RE/MAX agent in Florida talks with Duncan Duo Team President Robert Johnson, Listing Partner Darcy Davis and Arry from Arrys Roofing, about why new agents should be careful about the firm they start with. They talk about the high failure rate of first year real estate agents, the low # of average sales and income that the public doesn’t know about, and the fact that most agents fail because they join the wrong team or brokerage.
 
 </itunes:summary>
@@ -59,31 +56,28 @@ Andrew Duncan, the #1 RE/MAX agent in Florida talks with Duncan Duo Team Preside
       
       <item>
         <title>Tampa is the #1 Place in Florida to become a Realtor, Join The #1 Team!</title>
-        <link>localhost:4000/tampa-is-1-place-in-florida-to-become.html</link>
+        <link>http://jointheduo.com/tampa-is-the-1-place-in-florida-to-become-a-realtor-join-the-1-team.html</link>
         
         <author>The Duncan Duo</author>
         <pubDate>2018-05-12 16:17:00 -0500</pubDate>
         <guid></guid>
         <description>
-
 Andrew Duncan talks with several co-hosts about how it was recently announced that Tampa is the #1 city in Florida for becoming a real estate agent.  The group talks about how important it is to join a team that has marketing and training power and how many agents fail in their first year because they join the wrong company.  They discuss why the Duncan Duo team agents average 5x as many home sales in their first year as new agents on average and how their marketing and coaching system ensures agent success.
 
-Learn more about joining The Duncan Duo team by emailing careers@TheDuncanDuo.com or by registering for one of our upcoming career nights at www.JoinTheDuo.com.
+Learn more about joining The Duncan Duo team by emailing &#099;&#097;&#114;&#101;&#101;&#114;&#115;&#064;&#084;&#104;&#101;&#068;&#117;&#110;&#099;&#097;&#110;&#068;&#117;&#111;&#046;&#099;&#111;&#109; or by registering for one of our upcoming career nights at www.JoinTheDuo.com.
 
-If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at careers@TheDuncanDuo.com or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
+If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at &#099;&#097;&#114;&#101;&#101;&#114;&#115;&#064;&#084;&#104;&#101;&#068;&#117;&#110;&#099;&#097;&#110;&#068;&#117;&#111;&#046;&#099;&#111;&#109; or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Andrew Duncan talks with several co-hosts about how it was recently announced that Tampa is the #1 city in Florida for becoming a real estate agent.  The group talks about how important it is to join a team that has marketing and training power and how many agents fail in their first year because they join the wrong company.  They discuss why the Duncan Duo team agents average 5x as many home sales in their first year as new agents on average and how their marketing and coaching system ensures agent success.
 
 </itunes:subtitle>
         <itunes:author>The Duncan Duo</itunes:author>
         <itunes:summary>
-
 Andrew Duncan talks with several co-hosts about how it was recently announced that Tampa is the #1 city in Florida for becoming a real estate agent.  The group talks about how important it is to join a team that has marketing and training power and how many agents fail in their first year because they join the wrong company.  They discuss why the Duncan Duo team agents average 5x as many home sales in their first year as new agents on average and how their marketing and coaching system ensures agent success.
 
 </itunes:summary>
@@ -92,7 +86,7 @@ Andrew Duncan talks with several co-hosts about how it was recently announced th
       
       <item>
         <title>The Duo Talks: Should You Buy a New Home Before Selling Your Current One?</title>
-        <link>localhost:4000/the-duo-talks-should-you-buy-new-home.html</link>
+        <link>http://jointheduo.com/the-duo-talks-should-you-buy-new-home.html</link>
         
         <author>The Duncan Duo</author>
         <pubDate>2018-02-26 17:44:00 -0600</pubDate>
@@ -110,7 +104,7 @@ Another option is selling your home and moving into something in between like an
 If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at careers@TheDuncanDuo.com or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -129,7 +123,7 @@ Here are Andrew and Angela Duncan in their monthly series, “The Duo Talks,” 
       
       <item>
         <title>How Appraisals are causing major problems in Tampa Bay real estate & a Logical Solution!</title>
-        <link>localhost:4000/how-appraisals-are-causing-major.html</link>
+        <link>http://jointheduo.com/how-appraisals-are-causing-major.html</link>
         
         <author>The Duncan Duo</author>
         <pubDate>2017-11-04 16:30:00 -0500</pubDate>
@@ -143,7 +137,7 @@ On many occasions, appraisals are being challenged because of low values based o
 If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at careers@TheDuncanDuo.com or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -162,7 +156,7 @@ Andrew Duncan, #1 RE/MAX Agent in Florida, talks about challenges in the apprais
       
       <item>
         <title>Do You Have What It Takes to Be an Agent in Tampa Bay?</title>
-        <link>localhost:4000/do-you-have-what-it-takes-to-be-agent.html</link>
+        <link>http://jointheduo.com/do-you-have-what-it-takes-to-be-agent.html</link>
         
           <category>Florida Real Estate Agents</category>
         
@@ -192,7 +186,7 @@ Ready to start your career in Real Estate? Check out our careers page www.JoinTh
 If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at careers@TheDuncanDuo.com or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -211,29 +205,26 @@ Thinking of building a career in Real Estate? Andrew Duncan of The Duncan Duo, #
       
       <item>
         <title>Know someone that wants to become a Realtor? Come to our Career Night JoinTheDuo.com</title>
-        <link>localhost:4000/know-someone-that-wants-to-become.html</link>
+        <link>http://jointheduo.com/know-someone-that-wants-to-become-a-realtor-come-to-our-career-night-jointheduo-com.html</link>
         
         <author>The Duncan Duo</author>
         <pubDate>2017-03-10 18:19:00 -0600</pubDate>
         <guid></guid>
         <description>
-
 Are you thinking about a real estate career or becoming a Realtor?  Or do you know someone that is?  Come to our career nights and learn more information about how our team of real estate agents receives awards year after year and why our agents sell 5x more than the market averages in Tampa Bay. Our business model and real estate team are drastically different compared to other real estate brokerage. One of the struggles new agents go through is how to generate business, something The Duncan Duo has mastered over years of experience.
 
-If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at careers@TheDuncanDuo.com or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
+If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at &#099;&#097;&#114;&#101;&#101;&#114;&#115;&#064;&#084;&#104;&#101;&#068;&#117;&#110;&#099;&#097;&#110;&#068;&#117;&#111;&#046;&#099;&#111;&#109; or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Are you thinking about a real estate career or becoming a Realtor?  Or do you know someone that is?  Come to our career nights and learn more information about how our team of real estate agents receives awards year after year and why our agents sell 5x more than the market averages in Tampa Bay. Our business model and real estate team are drastically different compared to other real estate brokerage. One of the struggles new agents go through is how to generate business, something The Duncan Duo has mastered over years of experience.
 
 </itunes:subtitle>
         <itunes:author>The Duncan Duo</itunes:author>
         <itunes:summary>
-
 Are you thinking about a real estate career or becoming a Realtor?  Or do you know someone that is?  Come to our career nights and learn more information about how our team of real estate agents receives awards year after year and why our agents sell 5x more than the market averages in Tampa Bay. Our business model and real estate team are drastically different compared to other real estate brokerage. One of the struggles new agents go through is how to generate business, something The Duncan Duo has mastered over years of experience.
 
 </itunes:summary>
@@ -242,15 +233,12 @@ Are you thinking about a real estate career or becoming a Realtor?  Or do you kn
       
       <item>
         <title>The Benefits of Hiring a Real Estate Coach</title>
-        <link>localhost:4000/the-benefits-of-hiring-real-estate-coach.html</link>
-        
-          <category>Duncan Duo Careers</category>
+        <link>http://jointheduo.com/the-benefits-of-hiring-a-real-estate-coach.html</link>
         
         <author>The Duncan Duo</author>
         <pubDate>2017-01-23 12:14:00 -0600</pubDate>
         <guid></guid>
         <description>
-
 I got an email recently from someone thinking about getting into the real estate business who asked me whether they should hire a coach.
 
 In my opinion, yes you should hire a coach. All professionals have coaches. The most successful people in the world have coaches and consultants. I have a coach named Bobby Corcoran, whom I’ve coached with for several years and consider the very best coach in the business.
@@ -266,17 +254,15 @@ The most important piece of advice I can give to you is if you’re going to hir
 Be sure to check out our website for more educational real estate tips. If you have any other questions, please feel free to give me a call or shoot me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 I got an email recently from someone thinking about getting into the real estate business who asked me whether they should hire a coach.
 
 </itunes:subtitle>
         <itunes:author>The Duncan Duo</itunes:author>
         <itunes:summary>
-
 I got an email recently from someone thinking about getting into the real estate business who asked me whether they should hire a coach.
 
 </itunes:summary>
@@ -285,15 +271,12 @@ I got an email recently from someone thinking about getting into the real estate
       
       <item>
         <title>Whats an Agents First Year Really Like?</title>
-        <link>localhost:4000/whats-agents-first-year-really-like.html</link>
-        
-          <category>Duncan Duo Careers</category>
+        <link>http://jointheduo.com/whats-an-agents-first-year-really-like.html</link>
         
         <author>The Duncan Duo</author>
         <pubDate>2017-01-06 09:52:00 -0600</pubDate>
         <guid></guid>
         <description>
-
 What can a new real estate agent expect in their first year? To give you an idea, let me summarize how my first year as a real estate agent went.
 
 I was in my mid-twenties with a college degree in hand. I had been in a sales position for several years, but then I decided to join a real estate company. In my first year, I lost money. I sold very little real estate and just wasn’t very successful at all.
@@ -308,20 +291,18 @@ If you’re an independent agent, you’ll have to do a lot of these things on y
 
 If you have any other questions about how to navigate the first year of your real estate career, please feel free to give me a call or send me an email. I would be happy to talk with you!
 
-If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at careers@TheDuncanDuo.com or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
+If you are considering getting into the real estate business in Tampa Bay or becoming a Realtor in Tampa, send us an email at &#099;&#097;&#114;&#101;&#101;&#114;&#115;&#064;&#084;&#104;&#101;&#068;&#117;&#110;&#099;&#097;&#110;&#068;&#117;&#111;&#046;&#099;&#111;&#109; or click here to visit the Tampa Real Estate Careers Page on our website.  This video blog has an immense amount of information about our team model and its differences vs typical Tampa Real Estate Brokerages as well as videos from our radio show, testimonials from Tampa real estate agents on our team, and our social channels twitter, youtube, instagram, and facebook.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://jointheduo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 What can a new real estate agent expect in their first year? To give you an idea, let me summarize how my first year as a real estate agent went.
 
 </itunes:subtitle>
         <itunes:author>The Duncan Duo</itunes:author>
         <itunes:summary>
-
 What can a new real estate agent expect in their first year? To give you an idea, let me summarize how my first year as a real estate agent went.
 
 </itunes:summary>
