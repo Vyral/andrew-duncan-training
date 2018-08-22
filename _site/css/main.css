@@ -2652,6 +2652,9 @@ form select {
 @media(max-width: 750) {
   #myBtn {
     bottom: 40px; } }
+.apply {
+  width: 100% !important; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
