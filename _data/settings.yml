@@ -6,7 +6,7 @@ custom_links:
   - title: Our Team
     url: http://www.theduncanduo.com/custompages_reports/About.htm
   - title: Career Night
-    url: /career-night/
+    url: https://jointheduo.com/career-night/
   - title: Radio Show
     url: https://soundcloud.com/theduncanduo/sets/tampa-real-estate
   - title: Videos
@@ -17,7 +17,7 @@ sidebar_CTA:
     CTA_title: Come To Our Career Night
     CTA_text: The second Tuesday of every month, we'll be hosting a career night at our office starting at 6pm. Please fill out this form to register!
     CTA_link_text: Career Night
-    CTA_url: /careers/
+    CTA_url: https://jointheduo.com/career-night/
 
 
 client:
@@ -35,7 +35,7 @@ client:
   phone: 813-359-8990
   phone_type:
   address2: 7430 N Tamiami Trail<br>Sarasota, FL 34243
-  phone2: 941-888-4730
+  phone2: 941-888-4730c
   phone2_type:
   email: careers@theduncanduo.com
   url: https://www.TheDuncanDuo.com
