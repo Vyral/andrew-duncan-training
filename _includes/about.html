@@ -24,12 +24,10 @@
 				{% endif %}
 				{{ site.data.settings.client.brand }}<br />
 				{% if site.data.settings.client.brokerage != null %}
-				{{ site.data.settings.client.brokerage }}<br /><br>
+				{{ site.data.settings.client.brokerage }}<br />
 				{% endif %}
 				{{ site.data.settings.client.address }}<br />
-				{{ site.data.settings.client.phone }}<br /><br>
-				{{ site.data.settings.client.address2 }}<br />
-				{{ site.data.settings.client.phone2 }}<br /><br>
+				{{ site.data.settings.client.phone }}<br />
 				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
 				<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
 			</p>
