@@ -3,7 +3,7 @@ layout: post
 title: >-
   Why its different working as a Realtor with The Duncan Duo at RE/MAX - Career
   Night
-date: 2019-08-15 22:23:51
+date: 2019-08-15 22:23:00
 tags:
 excerpt:
 enclosure:
