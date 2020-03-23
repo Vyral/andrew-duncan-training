@@ -5,6 +5,9 @@ title: >-
   years and being #1 agent
 date:
 tags:
+  - Tampa real estate
+  - The Duncan Duo
+  - '#1 Real Estate team in Tampa'
 excerpt:
 enclosure:
 pullquote:
