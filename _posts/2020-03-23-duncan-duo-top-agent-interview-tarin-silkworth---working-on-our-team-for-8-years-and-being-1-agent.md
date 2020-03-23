@@ -3,7 +3,7 @@ layout: post
 title: >-
   Duncan Duo Top Agent Interview Tarin Silkworth - working on our team for 8
   years and being #1 agent
-date: 2020-03-23 11:40:03
+date: 2020-03-23 11:40:00
 tags:
 excerpt:
 enclosure:
@@ -15,7 +15,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% https://www.youtube.com/watch?v=bw91RbJvuhcl %}
+{% https://www.youtube.com/watch?v=bw91RbJvuhc %}
 
 {% Duncan Duo Top Agent Interview Tarin Silkworth - working on our team for 8 years and being #1 agent %}
 
