@@ -1,6 +1,9 @@
 audit_header: false
-title: "Tampa Bay's Best Real Estate Training"
-description: -- CLIENT NAME --, top Real Estate Agents in -- MARKET --, share their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Tampa Bay's Best Real Estate Training
+description: >-
+  -- CLIENT NAME --, top Real Estate Agents in -- MARKET --, share their own
+  internal real estate agent training for free. Their Real Estate Training, Tips
+  and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Our Team
@@ -11,23 +14,40 @@ custom_links:
     url: https://soundcloud.com/theduncanduo/sets/tampa-real-estate
   - title: Videos
     url: /videos/
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Come To Our Career Night
-    CTA_text: The second Tuesday of every month, we'll be hosting a career night at our office starting at 6pm. Please fill out this form to register!
+    CTA_text: >-
+      The second Tuesday of every month, we'll be hosting a career night at our
+      office starting at 6pm. Please fill out this form to register!
     CTA_link_text: Career Night
     CTA_url: https://jointheduo.com/career-night/
-
-
 client:
   name: The Duncan Duo
   title:
   license_number:
-  about_markdown: |
-    If you are looking to start or jumpstart a real estate career, look no further than the Duncan Duo Team. They have been the #1 Realtors in Tampa Bay for several years running, are the #1 RE/MAX Agents in Florida, #6 in the World, and are the Official Real Estate Agents of The Tampa Bay Lightning. As one of the most respected Realtors in the country, The Duncan Duo have also garnered endorsements from Jack Harris on 970WFLA where they also host their own radio show, and Ron Diaz on 620WDAE. Through the years, they have been endorsed by several other local and national celebrities and have helped multiple celebrities and professional athletes buy and sell real estate In addition, they have been ranked on the Inc5000 list for America’s Fastest Growing Privately owned companies 5 years running.
+  about_markdown: >
+    If you are looking to start or jumpstart a real estate career, look no
+    further than the Duncan Duo Team. They have been the #1 Realtors in Tampa
+    Bay for several years running, are the #1 RE/MAX Agents in Florida, #6 in
+    the World, and are the Official Real Estate Agents of The Tampa Bay
+    Lightning. As one of the most respected Realtors in the country, The Duncan
+    Duo have also garnered endorsements from Jack Harris on 970WFLA where they
+    also host their own radio show, and Ron Diaz on 620WDAE. Through the years,
+    they have been endorsed by several other local and national celebrities and
+    have helped multiple celebrities and professional athletes buy and sell real
+    estate In addition, they have been ranked on the Inc5000 list for America’s
+    Fastest Growing Privately owned companies 5 years running.
 
-    They have a track record of doubling, tripling and quadrupling agent income from their prior Brokerages and have an amazing training and mentoring program for brand new agents to learn the business and get into production quickly. The Duncan Duo are regularly looking for great team members to join their team and you can inquire in the message box at the top or by <a href="https://wizehire.com/cmp/duncan-duo-real-estate-at-remax" target="_blank">clicking here to apply directly via our recent hiring ad</a>.
+
+    They have a track record of doubling, tripling and quadrupling agent income
+    from their prior Brokerages and have an amazing training and mentoring
+    program for brand new agents to learn the business and get into production
+    quickly. The Duncan Duo are regularly looking for great team members to join
+    their team and you can inquire in the message box at the top or by <a
+    href="https://wizehire.com/cmp/duncan-duo-real-estate-at-remax"
+    target="_blank">clicking here to apply directly via our recent hiring
+    ad</a>.
   market: Tampa Bay
   brand: The Duncan Duo Team
   brokerage: RE/MAX Dynamic
@@ -39,7 +59,6 @@ client:
   phone2_type:
   email: careers@theduncanduo.com
   url: https://www.TheDuncanDuo.com
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -51,7 +70,6 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
-
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/remaxdynamictampa/
@@ -64,26 +82,36 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/tampa-bay-real-estate-careers/id1177061984?mt=2
-
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/tampa-bay-real-estate-careers/id1177061984?mt=2
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/headshot2.jpg
   logo1: /img/logo1.png
   logo2: /img/logo2.png
   logo3: /img/logo3.png
   logo4: /img/logo4.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -92,16 +120,13 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: transparent
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -110,5 +135,5 @@ buttons:
   button_background_color: transparent
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
