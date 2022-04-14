@@ -12,13 +12,9 @@ permalink: /videos/
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/zJ02GN6e-58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
----
+&nbsp;
 
-[...](https://youtu.be/EZDALEyAhIk)
-
-<iframe src="http://files.tubesnack.com/iframe/embed.html?hash=th3wkwyl&amp;wmode=window&amp;bgcolor=FFFFFF&amp;t=1428213713" width="480" height="300" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-
----
+[...](&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EZDALEyAhIk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;){: target="_blank" rel="noopener"}
 
 &nbsp;
 
